@@ -70,3 +70,6 @@ Example:bashdu -sh .
 ## Branch Practice
 
 This change was made on the linux-commands branch.
+## Documentation Practice
+
+This section was added while practicing Git branches and documentation.

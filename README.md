@@ -13,3 +13,6 @@ This repository contains my Linux learning and practice work.
 - Git branching and merging
 - GitHub Actions
 - ShellCheck
+## Bash Scripting
+
+This project includes Bash scripts for system information, disk usage, backups, and cleanup.

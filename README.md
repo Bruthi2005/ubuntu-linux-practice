@@ -14,7 +14,7 @@ A hands-on repository for learning and practicing Linux, Bash scripting, Git, Gi
 - ShellCheck
 ## 📁 Repository Structure
 
-```text
+text
 ubuntu-linux-practice/
 ├── .github/
 │   └── workflows/
@@ -89,7 +89,7 @@ This repository uses GitHub Actions to automatically check Bash scripts with She
 
 The workflow is located at:
 
-```text
+text
 .github/workflows/shellcheck.yml
 ## 📊 Learning Progress
 
